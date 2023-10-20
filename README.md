@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftjah.medium.com%2Feat-sleep-code-repeat-please-dont-f1453659d703&psig=AOvVaw3mghjAflnDHaaf6RwSiJq6&ust=1697902195039000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCHn9v4hIIDFQAAAAAdAAAAABAQ)
+[![MasterHead](http:[
+](https://miro.medium.com/v2/resize:fit:1400/1*sUI4nkPfH0wevBQMb29cnQ.jpeg)
 <h1 align="center">Hi 👋, I'm Fırat Eyılmaz</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
