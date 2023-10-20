@@ -1,5 +1,4 @@
-[![MasterHead](http:[
-](https://miro.medium.com/v2/resize:fit:1400/1*sUI4nkPfH0wevBQMb29cnQ.jpeg)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*sUI4nkPfH0wevBQMb29cnQ.jpeg)
 <h1 align="center">Hi 👋, I'm Fırat Eyılmaz</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
