@@ -12,7 +12,7 @@
 
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Firat+Eyilmaz+VAN+GitHub+Hoşgeldin)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Firat+Eyilmaz+VAN+GitHub+Hoşgeldn)
 
 
  
