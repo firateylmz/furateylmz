@@ -56,3 +56,6 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/firateylmz)
+
+
+<-- Hoşgeldin bir kaç gün sonra tüm kodlar yüklenecek. Ziyaret ettiğin için teşekkürler. Yıldız gibi parlaya bilirisn. -->
